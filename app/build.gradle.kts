@@ -9,7 +9,7 @@ plugins {
 
 android {
     namespace = "com.example.mvvmtodo"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.mvvmtodo"
