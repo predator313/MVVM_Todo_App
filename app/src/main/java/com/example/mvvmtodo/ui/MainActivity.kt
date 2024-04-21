@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         //added some new commits   changes
+
+        //hi hello world every one
     }
 }
