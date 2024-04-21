@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         //lets add some dummy commits
+        //adding commits
     }
 }
