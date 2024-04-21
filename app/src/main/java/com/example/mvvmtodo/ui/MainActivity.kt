@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         binding=ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        //added some new commits
+        //added some new commits   changes
     }
 }
